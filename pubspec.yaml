@@ -3,9 +3,9 @@ description:
   A container provides dropdown for its child widget.
   The child widget and the widget in dropdown is not limited.
   
-version: 0.0.1
-homepage:
-repository: https://github.com/tutucloud/dropdown-container-flutter.git
+version: 0.0.3
+homepage: https://github.com/tu-x-com/dropdown-container-flutter
+repository: https://github.com/tu-x-com/dropdown-container-flutter.git
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
